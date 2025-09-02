@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://winterspan-shop.com/sitemap.xml
